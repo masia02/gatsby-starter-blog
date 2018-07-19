@@ -1,5 +1,5 @@
 ---
-title: My Second Post!
+title: 2番目の投稿です！
 date: "2015-05-06T23:46:37.121Z"
 ---
 
